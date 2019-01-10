@@ -1,7 +1,7 @@
 <html><body>
    
 <?php
- //WHERE IS PHP.INI PEPEHANDS?
+ //WHERE IS PHP.INI PEPEHANDS
 echo 'Hello world from Cloud9!';
 
 
