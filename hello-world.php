@@ -1,10 +1,9 @@
 <html><body>
+   
 <?php
-
+ //WHERE IS PHP.INI PEPEHANDS?
 echo 'Hello world from Cloud9!';
-//hi purish how fuck are you doing?
-//fuck u damon chen
-//WTF?
+
 
 ?>
 </body>
